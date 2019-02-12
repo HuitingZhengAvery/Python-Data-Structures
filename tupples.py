@@ -1,3 +1,5 @@
+#you can use this python code with 'mbox-short.txt' provided to extract the dates of incoming emails and the times it happened each day.
+#these values are then stored in the tupple
 fname=input('enter a file name: ')
 xfile=open(fname)
 lst=list()
