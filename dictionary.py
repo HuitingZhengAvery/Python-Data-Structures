@@ -1,3 +1,5 @@
+#use this python code with 'mbox-short.txt' or anyother file you would like to work with
+#it finds the email address that sends the most emails and gives you the email count this person has sent
 fname=input('enter a file name: ')
 xfile=open(fname)
 t=list()
