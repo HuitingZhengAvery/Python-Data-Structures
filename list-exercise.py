@@ -1,3 +1,5 @@
+#this python code extracts all words in a poem (which is romeo.txt here) and puts them in a list
+
 fname=input('enter file name: ')
 xfile=open(fname)
 x=list()
